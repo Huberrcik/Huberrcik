@@ -1,6 +1,6 @@
-#Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
-My name is Hubert and I am student of second year Computer Science at Pedagogical University of Krakow. 
+My name is Hubert and I am student of third year Computer Science at Pedagogical University of Krakow. Currently working as Junior QA Developer at IG Group. 
 
 
 <h3 align="left">Languages and Tools:</h3>
